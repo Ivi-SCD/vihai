@@ -94,8 +94,9 @@ const App = () => {
         tipo_agente: agentType
       };
 
-      // Make the API call to the /message endpoint
-      const response = await fetch(`${process.env.BACKEND_API_URL}/message`, {
+      const API_URL = import.meta.env.REACT_APP_BACKEND_API_URL
+
+      const response = await fetch(`${API_URL}/message`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
