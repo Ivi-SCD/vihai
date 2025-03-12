@@ -94,7 +94,7 @@ const App = () => {
         tipo_agente: agentType
       };
 
-      const API_URL = import.meta.env.REACT_APP_BACKEND_API_URL
+      const API_URL = import.meta.env.VITE_REACT_APP_BACKEND_API_URL
 
       const response = await fetch(`${API_URL}/message`, {
         method: 'POST',
