@@ -2,7 +2,7 @@
 
 # VihAI - Transformando dados públicos em inteligência cidadã
 
-  ![License](https://img.shields.io/github/license/Ivi-SCD/vihai?style=for-the-badge)
+  ![License](https://img.shields.io/github/license/Ivi-SCD/vihai?style=for-the-badge&logo=License)
   ![Stars](https://img.shields.io/github/stars/Ivi-SCD/vihai?style=for-the-badge&logo=License")
   ![Forks](https://img.shields.io/github/forks/Ivi-SCD/vihai?style=for-the-badge&logo=License")
 
